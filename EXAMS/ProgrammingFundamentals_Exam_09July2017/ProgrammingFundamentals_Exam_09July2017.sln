@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02PokemonDontGo", "02PokemonDontGo\02PokemonDontGo.csproj", "{329AE011-A601-463A-9A31-A7133A20E765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04PokemonEvolution", "04PokemonEvolution\04PokemonEvolution.csproj", "{F04BDD74-1731-42F6-9133-ED01BCBF6B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Regexmon", "03Regexmon\03Regexmon.csproj", "{D30D0ACF-7A52-41A3-8ACF-7BC975D7DF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01PokeMon", "01PokeMon\01PokeMon.csproj", "{5778AD8F-36FA-49AF-A321-25852AB05435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329AE011-A601-463A-9A31-A7133A20E765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329AE011-A601-463A-9A31-A7133A20E765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329AE011-A601-463A-9A31-A7133A20E765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329AE011-A601-463A-9A31-A7133A20E765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04BDD74-1731-42F6-9133-ED01BCBF6B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04BDD74-1731-42F6-9133-ED01BCBF6B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04BDD74-1731-42F6-9133-ED01BCBF6B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04BDD74-1731-42F6-9133-ED01BCBF6B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30D0ACF-7A52-41A3-8ACF-7BC975D7DF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30D0ACF-7A52-41A3-8ACF-7BC975D7DF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30D0ACF-7A52-41A3-8ACF-7BC975D7DF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30D0ACF-7A52-41A3-8ACF-7BC975D7DF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5778AD8F-36FA-49AF-A321-25852AB05435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5778AD8F-36FA-49AF-A321-25852AB05435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5778AD8F-36FA-49AF-A321-25852AB05435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5778AD8F-36FA-49AF-A321-25852AB05435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

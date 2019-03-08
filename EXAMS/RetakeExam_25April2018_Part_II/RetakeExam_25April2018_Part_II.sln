@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TseamAccount", "03TseamAccount\03TseamAccount.csproj", "{FC2455B5-B587-4386-9E49-1D3D41A9243E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04MOBAChallenger", "04MOBAChallenger\04MOBAChallenger.csproj", "{445821C3-FDBC-4DC6-B2B4-E38E6690BAA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2455B5-B587-4386-9E49-1D3D41A9243E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2455B5-B587-4386-9E49-1D3D41A9243E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2455B5-B587-4386-9E49-1D3D41A9243E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2455B5-B587-4386-9E49-1D3D41A9243E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445821C3-FDBC-4DC6-B2B4-E38E6690BAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445821C3-FDBC-4DC6-B2B4-E38E6690BAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445821C3-FDBC-4DC6-B2B4-E38E6690BAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445821C3-FDBC-4DC6-B2B4-E38E6690BAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
